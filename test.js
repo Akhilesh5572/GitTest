@@ -5,3 +5,4 @@ console.log("All tests failed and spoil.");
 console.log("This is a production file.");
 console.log("This is dev2.");
 console.log("This is dev1.");
+console.log("test1.");
